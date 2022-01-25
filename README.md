@@ -2,7 +2,6 @@
 - 💻 Currently learning Python
 - 🇮🇹🇬🇧🇩🇪🇪🇸🇨🇳 Linguist
 - 📸 Hobby photographer, drone girl 🛸
-- 🎮 Gamer
 - 🎗 Thriver
 - 📷 [Instagram](https://www.instagram.com/tenaciouscri/)
 - 📫 Send me an email: cridelve@gmail.com
