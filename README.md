@@ -1,5 +1,11 @@
-### Hi there 👋
-
+- 👋 Hey there, I'm @tenaciouscri (she/her)
+- 💻 Currently learning Python
+- 🇮🇹🇬🇧🇩🇪🇪🇸🇨🇳 Linguist
+- 📸 Hobby photographer, drone girl 🛸
+- 🎮 Gamer
+- 🎗 Thriver
+- 📷 [Instagram](https://www.instagram.com/tenaciouscri/)
+- 📫 Send me an email: cridelve@gmail.com
 <!--
 **tenaciouscri/tenaciouscri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
