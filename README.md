@@ -4,7 +4,6 @@
 - 📸 Hobby photographer, drone girl 🛸
 - 🎗 Thriver
 - 📷 [Instagram](https://www.instagram.com/tenaciouscri/)
-- 📫 Send me an email: cridelve@gmail.com
 <!--
 **tenaciouscri/tenaciouscri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
