@@ -1,5 +1,5 @@
 - 👋 Hey there, I'm @tenaciouscri (she/her)
-- 💻 Currently learning Python
+- 💻 Python | Django | Golang
 - 🇮🇹🇬🇧🇩🇪🇪🇸🇨🇳 Linguist
 - 📸 Hobby photographer, drone girl 🛸
 - 🎗 Thriver
